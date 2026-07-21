@@ -189,7 +189,7 @@ Request
 
 # License
 
-This project is licensed under the **MIT License**.
+This project is provided for educational and demonstration purposes.
 
 ---
 
