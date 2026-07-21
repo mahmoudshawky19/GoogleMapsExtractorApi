@@ -1,0 +1,6 @@
+@GoogleMapsExtractor_HostAddress = http://localhost:5236
+
+GET {{GoogleMapsExtractor_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
