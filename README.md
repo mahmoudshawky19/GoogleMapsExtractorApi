@@ -75,7 +75,7 @@ dotnet run --project GoogleMapsExtractor.API
 **POST**
 
 ```
-/api/Extraction/extract
+/api/Extraction/googlemapsCompanies
 ```
 
 Request
@@ -120,7 +120,7 @@ Request
 **POST**
 
 ```
-/api/Extraction/export/excel
+/api/Extraction/export/companies-excel
 ```
 
 ---
@@ -140,7 +140,7 @@ Request
 **POST**
 
 ```
-/api/Extraction/export/csv
+/api/Extraction/export/companies-csv
 ```
 
 ---
